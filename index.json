@@ -1,0 +1,11 @@
+{
+  "org": "modal-labs",
+  "repo": "modal-cursor",
+  "versions": [
+    {
+      "commit": "954c0123d69cd93721fed29850c46beba708cfd6",
+      "tag": "",
+      "parsed_at": "2026-11-08T03:30:31.682298+00:00"
+    }
+  ]
+}
